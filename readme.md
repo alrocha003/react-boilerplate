@@ -1,13 +1,7 @@
 ## Boilerplate from ReactJS Projects
-<img src='https://img.shields.io/twitter/url?label=Follow-me&url=https%3A%2F%2Ftwitter.com%2FA_tarta'/>
-<img src='https://img.shields.io/appveyor/build/alrocha003/react-boilerplate'/>
-<img src='https://img.shields.io/github/repo-size/alrocha003/react-boilerplate'/>
-<img src='https://img.shields.io/github/commit-activity/y/alrocha003/react-boilerplate?style=flat-square'/>
-<img src='https://img.shields.io/npm/v/alrocha003/react-boilerplate'/>
-<img src='https://img.shields.io/github/languages/count/alrocha003/react-boilerplate'/>
-<img src='https://img.shields.io/github/forks/alrocha003/react-boilerplate?style=social'/>
-<img src='https://img.shields.io/github/last-commit/alrocha003/react-boilerplate'/>
-<img src='https://img.shields.io/github/last-commit/alrocha003/react-boilerplate'/>
+<img src='https://img.shields.io/twitter/url?label=Follow-me&url=https%3A%2F%2Ftwitter.com%2FA_tarta'/><img src='https://img.shields.io/appveyor/build/alrocha003/react-boilerplate'/>
+<img src='https://img.shields.io/github/repo-size/alrocha003/react-boilerplate'/><img src='https://img.shields.io/github/commit-activity/y/alrocha003/react-boilerplate?style=flat-square'/>
+<img src='https://img.shields.io/npm/v/alrocha003/react-boilerplate'/><img src='https://img.shields.io/github/languages/count/alrocha003/react-boilerplate'/><img src='https://img.shields.io/github/forks/alrocha003/react-boilerplate?style=social'/><img src='https://img.shields.io/github/last-commit/alrocha003/react-boilerplate'/><img src='https://img.shields.io/github/last-commit/alrocha003/react-boilerplate'/>
 
 
 How to use:
